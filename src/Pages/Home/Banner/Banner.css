@@ -9,6 +9,10 @@
     width: 100%;
     box-shadow: 2px 2px 5px lightgray;
     border-radius: 2%;
+    transition: transform 0.6s ease-in-out;
+}
+.bannerImg img:hover{
+    transform: scale(1.1);
 }
 .bannerContent{
     /* border: 1px solid lightgray; */

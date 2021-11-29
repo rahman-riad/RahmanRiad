@@ -1,0 +1,18 @@
+.projectDesign{
+    /* border: 1px solid lightgray; */
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px lightgray;
+    margin: 12px 0;
+}
+
+/* .projectDesign img{
+    height: 280px;
+} */
+
+
+@media only screen and (max-width: 768px) {
+    .projectDesign img{
+        height: 150px;
+    }
+  }
