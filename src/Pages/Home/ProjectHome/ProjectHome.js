@@ -2,11 +2,11 @@ import React from 'react';
 import { Container } from 'react-bootstrap';
 import './ProjectHome.css';
 import GalaxyCraft from '../../../images/project/galaxycraft.PNG';
-import PlanetParadise from '../../../images/project/planetparadise.PNG';
-import PatroMedic from '../../../images/project/patromedic.PNG';
-import BlendedLearning from '../../../images/project/blendedlearning.PNG';
-import MusicBands from '../../../images/project/musicbands.PNG';
-import ArchiveBook from '../../../images/project/archive.PNG';
+// import PlanetParadise from '../../../images/project/planetparadise.PNG';
+// import PatroMedic from '../../../images/project/patromedic.PNG';
+// import BlendedLearning from '../../../images/project/blendedlearning.PNG';
+// import MusicBands from '../../../images/project/musicbands.PNG';
+// import ArchiveBook from '../../../images/project/archive.PNG';
 
 const ProjectHome = () => {
     return (
@@ -46,7 +46,7 @@ const ProjectHome = () => {
                                 role="button">SERVER CODE</a>
                         </div>
                     </div>
-                    <div className="col-md-6">
+                    {/* <div className="col-md-6">
                         <div className="projectDesign">
                             <img src={PlanetParadise}
                                 width="100%"
@@ -75,11 +75,11 @@ const ProjectHome = () => {
                                 class="mb-2 btn btn-outline-dark"
                                 role="button">SERVER CODE</a>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
 
                 {/* Row Two */}
-                <div className="row gy-3">
+                {/* <div className="row gy-3">
                     <div className="col-md-6">
                         <div className="projectDesign">
                             <img src={PatroMedic}
@@ -126,7 +126,7 @@ const ProjectHome = () => {
                 </div>
 
                 {/* Row Three */}
-                <div className="row gy-3">
+                {/* <div className="row gy-3">
                     <div className="col-md-6">
                         <div className="projectDesign">
                             <img src={MusicBands}
@@ -169,7 +169,7 @@ const ProjectHome = () => {
                                 role="button">CODE</a>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </Container>
         </>
     );
