@@ -3,16 +3,16 @@
     "key": "615a845fe3a5f6dbb274c6f3",
     "mainImg": "https://i.ibb.co/2Mf0T8Q/galaxycraft.png",
     "imgOne": "https://i.ibb.co/Wxcf2L8/galaxycraft2.png",
-    "imgTwo": "https://i.ibb.co/KxbXyLc/galaxycraft3.png",
-    "imgThree": "https://i.ibb.co/6RXKkCM/galaxycraft4.png",
+    "imgTwo": "https://i.ibb.co/6RXKkCM/galaxycraft4.png",
+    "imgThree": "https://i.ibb.co/KxbXyLc/galaxycraft3.png",
     "name": "GalaxyCraft",
     "description": "GalaxyCraft is an online car dealing platform where users will get both old and new cars. If user is logged in, he/she can easily order a product. Besides, there is also a dashboard where users can cancel their order and also make a review. There is also another dashboard for Admin so that he/she can manage all orders and products. Also, Admin can make a new Admin if needed.",
     "bulletPoint": [
       "GalaxyCraft is an online car dealing platform where users will get both old and new cars.",
-      "GalaxyCraft is an online car dealing platform where users will get both old and new cars.",
-      "GalaxyCraft is an online car dealing platform where users will get both old and new cars.",
-      "GalaxyCraft is an online car dealing platform where users will get both old and new cars.",
-      "GalaxyCraft is an online car dealing platform where users will get both old and new cars."
+      "If user is logged in, he/she can easily order a product.",
+      "Besides, there is also a dashboard where users can cancel their order and also make a review.",
+      "There is also another dashboard for Admin so that he/she can manage all orders and products.",
+      "Also, Admin can make a new Admin if needed."
     ],
     "livePreview": "https://galaxycraft-riad.web.app/",
     "code": "https://github.com/rahman-riad/GalaxyCraft",
@@ -37,10 +37,9 @@
     "description": "Planet Paradise Provides Beautiful Tour Packages at reasonable price. Exclusive tour packages from home and abroad are arranged by Planet Paradise. There is a option named My Order where user can find all orders. User can also cancel the order from orders. There are more features where new packages can be added, all orders can be managed and also the system of log out.",
     "bulletPoint": [
       "Planet Paradise Provides Beautiful Tour Packages at reasonable price.",
-      "Planet Paradise Provides Beautiful Tour Packages at reasonable price.",
-      "Planet Paradise Provides Beautiful Tour Packages at reasonable price.",
-      "Planet Paradise Provides Beautiful Tour Packages at reasonable price.",
-      "Planet Paradise Provides Beautiful Tour Packages at reasonable price."
+      "Exclusive tour packages from home and abroad are arranged by Planet Paradise.",
+      "There is a option named My Order where user can find all orders.",
+      "There are more features where new packages can be added, all orders can be managed and also the system of log out."
     ],
     "livePreview": "https://planet-paradise.web.app/",
     "code": "https://github.com/rahman-riad/Planet-Paradise",
@@ -64,10 +63,10 @@
     "description": "PatroMedic has specialized doctors, emergency supports for patients at any location. In this site user can register and login. Redirect system is applied in this site. If User is logged in to the site, he/she can find all our emergency supports. Now, PatroMedic is a fully online services platform.",
     "bulletPoint": [
       "PatroMedic has specialized doctors, emergency supports for patients at any location.",
-      "PatroMedic has specialized doctors, emergency supports for patients at any location.",
-      "PatroMedic has specialized doctors, emergency supports for patients at any location.",
-      "PatroMedic has specialized doctors, emergency supports for patients at any location.",
-      "PatroMedic has specialized doctors, emergency supports for patients at any location."
+      "In this site user can register and login.",
+      "Redirect system is applied in this site.",
+      "If User is logged in to the site, he/she can find all our emergency supports.",
+      "Now, PatroMedic is a fully online services platform."
     ],
     "livePreview": "https://patromedic.web.app/",
     "code": "https://github.com/rahman-riad/PatroMedic",
@@ -89,10 +88,9 @@
     "description": "Blended Learning Site Provide severall courses which are effective and easier. We Have Machine Learning, Data Mining, Problem Solving, Public Speaking etc Course. Blended Learning is not make for Specific course or technology. we will add different type of course.",
     "bulletPoint": [
       "Blended Learning Site Provide severall courses which are effective and easier.",
-      "Blended Learning Site Provide severall courses which are effective and easier.",
-      "Blended Learning Site Provide severall courses which are effective and easier.",
-      "Blended Learning Site Provide severall courses which are effective and easier.",
-      "Blended Learning Site Provide severall courses which are effective and easier."
+      "We Have Machine Learning, Data Mining, Problem Solving, Public Speaking etc Course.",
+      "Blended Learning is not make for Specific course or technology.",
+      "we will add different type of course."
     ],
     "livePreview": "https://blendedlearning.netlify.app/",
     "code": "https://github.com/rahman-riad/Blended-Learning",
@@ -113,8 +111,8 @@
     "description": "DIU Foundation day is the biggestion function of Daffodil Internationl University. All Students, Teacher, Admins, Staff are enjoy this day together. In This Day DIU Arrange Concert and Invite Bangladeshi Music Band.",
     "bulletPoint": [
       "DIU Foundation day is the biggestion function of Daffodil Internationl University.",
-      "DIU Foundation day is the biggestion function of Daffodil Internationl University.",
-      "DIU Foundation day is the biggestion function of Daffodil Internationl University."
+      "All Students, Teacher, Admins, Staff are enjoy this day together.",
+      "In This Day DIU Arrange Concert and Invite Bangladeshi Music Band."
     ],
     "livePreview": "https://invite-musicbands.netlify.app/",
     "code": "https://github.com/rahman-riad/Music-Bands",
@@ -134,8 +132,7 @@
     "description": "In Book archive you will get all of your favorite books. just visit book archive site and search your book and you will get exact or relative books of your search. ",
     "bulletPoint": [
       "In Book archive you will get all of your favorite books.",
-      "In Book archive you will get all of your favorite books.",
-      "In Book archive you will get all of your favorite books."
+      "just visit book archive site and search your book and you will get exact or relative books of your search."
     ],
     "livePreview": "https://archive-books.netlify.app/",
     "code": "https://github.com/rahman-riad/Book-Archive",

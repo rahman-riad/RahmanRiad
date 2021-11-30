@@ -26,7 +26,7 @@ const ContactForm = () => {
         <>
             <Container>
                 <div className="contactForm">
-                    <h3 className="fw-bold fst-italic text-center mb-4">Connect With Me</h3>
+                    <h3 className="fw-bold fst-italic text-center mb-4" style={{ color: "#ff014f" }}>Connect With Me</h3>
                     <div className="row">
                         <div className="col-md-5">
                             <img src={Connect} className="img-fluid img-thumbnail" width="100%" alt="" />
