@@ -1,0 +1,148 @@
+[
+  {
+    "key": "615a845fe3a5f6dbb274c6f3",
+    "mainImg": "https://i.ibb.co/2Mf0T8Q/galaxycraft.png",
+    "imgOne": "https://i.ibb.co/Wxcf2L8/galaxycraft2.png",
+    "imgTwo": "https://i.ibb.co/KxbXyLc/galaxycraft3.png",
+    "imgThree": "https://i.ibb.co/6RXKkCM/galaxycraft4.png",
+    "name": "GalaxyCraft",
+    "description": "GalaxyCraft is an online car dealing platform where users will get both old and new cars. If user is logged in, he/she can easily order a product. Besides, there is also a dashboard where users can cancel their order and also make a review. There is also another dashboard for Admin so that he/she can manage all orders and products. Also, Admin can make a new Admin if needed.",
+    "bulletPoint": [
+      "GalaxyCraft is an online car dealing platform where users will get both old and new cars.",
+      "GalaxyCraft is an online car dealing platform where users will get both old and new cars.",
+      "GalaxyCraft is an online car dealing platform where users will get both old and new cars.",
+      "GalaxyCraft is an online car dealing platform where users will get both old and new cars.",
+      "GalaxyCraft is an online car dealing platform where users will get both old and new cars."
+    ],
+    "livePreview": "https://galaxycraft-riad.web.app/",
+    "code": "https://github.com/rahman-riad/GalaxyCraft",
+    "codeServer": "https://github.com/rahman-riad/GalaxyCraft-Server",
+    "technology": [
+      "React Js",
+      "React Router",
+      "React Bootstrap",
+      "Material UI",
+      "Firebase",
+      "Node Js",
+      "MongoDB"
+    ]
+  },
+  {
+    "key": "615a845f9f17d7a6057a8b8d",
+    "mainImg": "https://i.ibb.co/4NqnX3c/planetparadise.png",
+    "imgOne": "https://i.ibb.co/tZLfnX2/planetparadise2.png",
+    "imgTwo": "https://i.ibb.co/PDqQX9M/planetparadise3.png",
+    "imgThree": "https://i.ibb.co/Nt2ZSsm/planetparadise4.png",
+    "name": "Planet Paradise",
+    "description": "Planet Paradise Provides Beautiful Tour Packages at reasonable price. Exclusive tour packages from home and abroad are arranged by Planet Paradise. There is a option named My Order where user can find all orders. User can also cancel the order from orders. There are more features where new packages can be added, all orders can be managed and also the system of log out.",
+    "bulletPoint": [
+      "Planet Paradise Provides Beautiful Tour Packages at reasonable price.",
+      "Planet Paradise Provides Beautiful Tour Packages at reasonable price.",
+      "Planet Paradise Provides Beautiful Tour Packages at reasonable price.",
+      "Planet Paradise Provides Beautiful Tour Packages at reasonable price.",
+      "Planet Paradise Provides Beautiful Tour Packages at reasonable price."
+    ],
+    "livePreview": "https://planet-paradise.web.app/",
+    "code": "https://github.com/rahman-riad/Planet-Paradise",
+    "codeServer": "https://github.com/rahman-riad/Planet-Paradise-Server",
+    "technology": [
+      "React Js",
+      "React Router",
+      "React Bootstrap",
+      "Firebase",
+      "Node Js",
+      "MongoDB"
+    ]
+  },
+  {
+    "key": "615a845f4b71e6be9801b8d2",
+    "mainImg": "https://i.ibb.co/zbPHZRd/patromedic.png",
+    "imgOne": "https://i.ibb.co/GsMxhqV/patromedic2.png",
+    "imgTwo": "https://i.ibb.co/swfdrtz/patromedic3.png",
+    "imgThree": "https://i.ibb.co/nP75cqc/patromedic4.png",
+    "name": "PatroMedic",
+    "description": "PatroMedic has specialized doctors, emergency supports for patients at any location. In this site user can register and login. Redirect system is applied in this site. If User is logged in to the site, he/she can find all our emergency supports. Now, PatroMedic is a fully online services platform.",
+    "bulletPoint": [
+      "PatroMedic has specialized doctors, emergency supports for patients at any location.",
+      "PatroMedic has specialized doctors, emergency supports for patients at any location.",
+      "PatroMedic has specialized doctors, emergency supports for patients at any location.",
+      "PatroMedic has specialized doctors, emergency supports for patients at any location.",
+      "PatroMedic has specialized doctors, emergency supports for patients at any location."
+    ],
+    "livePreview": "https://patromedic.web.app/",
+    "code": "https://github.com/rahman-riad/PatroMedic",
+    "technology": [
+      "React Js",
+      "React Router",
+      "React Bootstrap",
+      "API",
+      "Firebase"
+    ]
+  },
+  {
+    "key": "615a845f60da8214e572b3a5",
+    "mainImg": "https://i.ibb.co/HzY7zwR/blendedlearning.png",
+    "imgOne": "https://i.ibb.co/p1TPrMn/blendedlearning2.png",
+    "imgTwo": "https://i.ibb.co/HX2LjGb/blendedlearning3.png",
+    "imgThree": "https://i.ibb.co/0tdHs0w/blendedlearning4.png",
+    "name": "Blended Learning",
+    "description": "Blended Learning Site Provide severall courses which are effective and easier. We Have Machine Learning, Data Mining, Problem Solving, Public Speaking etc Course. Blended Learning is not make for Specific course or technology. we will add different type of course.",
+    "bulletPoint": [
+      "Blended Learning Site Provide severall courses which are effective and easier.",
+      "Blended Learning Site Provide severall courses which are effective and easier.",
+      "Blended Learning Site Provide severall courses which are effective and easier.",
+      "Blended Learning Site Provide severall courses which are effective and easier.",
+      "Blended Learning Site Provide severall courses which are effective and easier."
+    ],
+    "livePreview": "https://blendedlearning.netlify.app/",
+    "code": "https://github.com/rahman-riad/Blended-Learning",
+    "technology": [
+      "React Js",
+      "React Router",
+      "React Bootstrap",
+      "API"
+    ]
+  },
+  {
+    "key": "615a845f14a4b1397f56513c",
+    "mainImg": "https://i.ibb.co/8gdK6nC/musicbands.png",
+    "imgOne": "https://i.ibb.co/M7185J2/musicbands2.png",
+    "imgTwo": "https://i.ibb.co/8gdK6nC/musicbands.png",
+    "imgThree": "https://i.ibb.co/8gdK6nC/musicbands.png",
+    "name": "Music Bands",
+    "description": "DIU Foundation day is the biggestion function of Daffodil Internationl University. All Students, Teacher, Admins, Staff are enjoy this day together. In This Day DIU Arrange Concert and Invite Bangladeshi Music Band.",
+    "bulletPoint": [
+      "DIU Foundation day is the biggestion function of Daffodil Internationl University.",
+      "DIU Foundation day is the biggestion function of Daffodil Internationl University.",
+      "DIU Foundation day is the biggestion function of Daffodil Internationl University."
+    ],
+    "livePreview": "https://invite-musicbands.netlify.app/",
+    "code": "https://github.com/rahman-riad/Music-Bands",
+    "technology": [
+      "React Js",
+      "React Bootstrap",
+      "API"
+    ]
+  },
+  {
+    "key": "615a845f1c94939d530e39d0",
+    "mainImg": "https://i.ibb.co/TWfTgRH/archive.png",
+    "imgOne": "https://i.ibb.co/TvwBXGt/archive2.png",
+    "imgTwo": "https://i.ibb.co/GkHNqkF/archive3.png",
+    "imgThree": "https://i.ibb.co/c35MJMn/archive4.png",
+    "name": "Archive Book",
+    "description": "In Book archive you will get all of your favorite books. just visit book archive site and search your book and you will get exact or relative books of your search. ",
+    "bulletPoint": [
+      "In Book archive you will get all of your favorite books.",
+      "In Book archive you will get all of your favorite books.",
+      "In Book archive you will get all of your favorite books."
+    ],
+    "livePreview": "https://archive-books.netlify.app/",
+    "code": "https://github.com/rahman-riad/Book-Archive",
+    "technology": [
+      "React Js",
+      "React Bootstrap",
+      "API"
+    ]
+  }
+]

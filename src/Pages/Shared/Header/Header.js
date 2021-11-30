@@ -6,7 +6,7 @@ import Riad from '../../../images/riad.png';
 const Header = () => {
     return (
         <div>
-            <Navbar className="shadow-sm" sticky="top" bg="light" variant="light" collapseOnSelect expand="lg">
+            <Navbar className="shadow-sm" sticky="top" collapseOnSelect expand="lg">
                 <Container>
                     <Navbar.Brand href="#home">
                         <div className="d-flex align-items-center">
