@@ -23,7 +23,7 @@ const ContactForm = () => {
     };
 
     return (
-        <>
+        <div id="contact">
             <Container>
                 <div className="contactForm">
                     <h3 className="fw-bold fst-italic text-center mb-4" style={{ color: "#ff014f" }}>Connect With Me</h3>
@@ -96,7 +96,7 @@ const ContactForm = () => {
                     </div>
                 </div>
             </Container>
-        </>
+        </div>
     );
 };
 

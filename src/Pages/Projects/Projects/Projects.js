@@ -12,7 +12,7 @@ const Projects = () => {
 
 
     return (
-        <>
+        <div id="projects">
             <Container className="my-5">
                 <h3 className="text-center fw-bold fst-italic" style={{ color: "#ff014f" }}>Projects</h3>
                 <div className="row">
@@ -24,7 +24,7 @@ const Projects = () => {
                     }
                 </div>
             </Container>
-        </>
+        </div>
     );
 };
 

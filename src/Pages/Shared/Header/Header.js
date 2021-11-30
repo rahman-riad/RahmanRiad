@@ -2,11 +2,12 @@ import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import Riad from '../../../images/riad.png';
+// import { HashLink } from 'react-router-hash-link';
 
 const Header = () => {
     return (
-        <div>
-            <Navbar className="shadow-sm" sticky="top" collapseOnSelect expand="lg">
+        <>
+            <Navbar className="shadow-sm" bg="white" sticky="top" collapseOnSelect expand="lg">
                 <Container>
                     <Navbar.Brand href="#home">
                         <div className="d-flex align-items-center">
@@ -23,7 +24,7 @@ const Header = () => {
                     <Navbar.Toggle />
 
                     <Navbar.Collapse className="justify-content-end">
-                        <Nav.Link className="fw-bold" style={{ color: "#ff014f" }} as={Link} to="/">Home</Nav.Link>
+                        <Nav.Link className="fw-bold" style={{ color: "#ff014f" }} as={Link} to="/home">Home</Nav.Link>
                         <Nav.Link className="fw-bold" style={{ color: "#ff014f" }} as={Link} to="/projects">Projects</Nav.Link>
                         <Nav.Link className="fw-bold" style={{ color: "#ff014f" }} as={Link} to="/about">About</Nav.Link>
                         <Nav.Link className="fw-bold" style={{ color: "#ff014f" }} as={Link} to="/contact">Contact</Nav.Link>
@@ -31,7 +32,7 @@ const Header = () => {
 
                 </Container>
             </Navbar>
-        </div>
+        </>
     );
 };
 

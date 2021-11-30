@@ -7,7 +7,7 @@ import './Banner.css';
 const Banner = () => {
     return (
         <>
-            <Container>
+            <Container id="home">
                 <div className="row px-2 py-4 align-items-center border border-light shadow-sm rounded mt-5 fullBannerContent">
                     <div className="col-md-5">
                         <div className="bannerImg" >
